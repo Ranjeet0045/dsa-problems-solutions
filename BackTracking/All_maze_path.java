@@ -28,9 +28,10 @@ public class All_maze_path {
 
     public static void main(String[] args) {
         boolean[][] maze = {
-            {true,true,true},
-            {true,true,true},
-            {true,true,true}
+            {true,false,false,false},
+            {true,true,false,true},
+            {true,true,false,false},
+            {false,true,true,true}
         };
         allPath(" ", maze, 0, 0);
     }
