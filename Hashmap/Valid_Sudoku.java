@@ -4,6 +4,7 @@ import java.util.HashSet;
 
 public class Valid_Sudoku {
 
+    @SuppressWarnings("UnnecessaryContinue")
     private static boolean isValidSudoku(char[][] board) {
 
         HashSet<Character> rowSet = new HashSet<>();

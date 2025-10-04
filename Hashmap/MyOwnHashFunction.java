@@ -1,6 +1,7 @@
 package Hashmap;
 
 class mapUsingHash{
+    @SuppressWarnings("FieldMayBeFinal")
     private Entity[] entities;
 
     public mapUsingHash(){

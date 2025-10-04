@@ -3,6 +3,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TopKFrequent_elements",
+      "request": "launch",
+      "mainClass": "Hashmap.TopKFrequent_elements",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Sliding_window_median",
+      "request": "launch",
+      "mainClass": "Heap.Questions.Sliding_window_median",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "TopKfrequentElements",
+      "request": "launch",
+      "mainClass": "Heap.Questions.TopKfrequentElements",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "jnjfj",
+      "request": "launch",
+      "mainClass": "Greedy.jnjfj",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "jfvuj",
+      "request": "launch",
+      "mainClass": "Heap.Implementation.jfvuj",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "kthLargestElement",
+      "request": "launch",
+      "mainClass": "Heap.Questions.kthLargestElement",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Trapping_RainWater_2",
+      "request": "launch",
+      "mainClass": "Heap.Questions.Trapping_RainWater_2",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Trapping_rain_water_2",
+      "request": "launch",
+      "mainClass": "Heap.Questions.Trapping_rain_water_2",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Construct_target_Array",
+      "request": "launch",
+      "mainClass": "Heap.Questions.Construct_target_Array",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "ugly_number_2",
+      "request": "launch",
+      "mainClass": "Heap.Questions.ugly_number_2",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Vowels_game",
       "request": "launch",
       "mainClass": "Vowels_game",
