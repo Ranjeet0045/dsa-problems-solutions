@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Successful_pairs_of_spells_and_pairs",
+      "request": "launch",
+      "mainClass": "TwoPointer_Approach.Successful_pairs_of_spells_and_pairs",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Largest_Combination",
+      "request": "launch",
+      "mainClass": "Largest_Combination",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "SumOf_Beauty_of_substrings",
+      "request": "launch",
+      "mainClass": "SumOf_Beauty_of_substrings",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "SegmentTree",
+      "request": "launch",
+      "mainClass": "Segment_tree.SegmentTree",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "TopKFrequent_elements",
       "request": "launch",
       "mainClass": "Hashmap.TopKFrequent_elements",
