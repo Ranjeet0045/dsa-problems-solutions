@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Least_number_of_unique_Integers",
+      "request": "launch",
+      "mainClass": "Hashmap.Least_number_of_unique_Integers",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Maximum_number_of_Distinct_elements",
+      "request": "launch",
+      "mainClass": "Greedy.Maximum_number_of_Distinct_elements",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Subarrays_with_different_k_elements",
+      "request": "launch",
+      "mainClass": "Sliding_window.Subarrays_with_different_k_elements",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Successful_pairs_of_spells_and_pairs",
       "request": "launch",
       "mainClass": "TwoPointer_Approach.Successful_pairs_of_spells_and_pairs",
