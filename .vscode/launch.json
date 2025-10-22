@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Top_k_frequent_elements",
+      "request": "launch",
+      "mainClass": "Hashmap.Top_k_frequent_elements",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Least_number_of_unique_Integers",
       "request": "launch",
       "mainClass": "Hashmap.Least_number_of_unique_Integers",
