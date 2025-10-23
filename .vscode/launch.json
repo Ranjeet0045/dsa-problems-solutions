@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "kth_smallest_in_BST",
+      "request": "launch",
+      "mainClass": "Tree.kth_smallest_in_BST",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Top_K_frequent_Elements",
       "request": "launch",
       "mainClass": "Heap.Questions.Top_K_frequent_Elements",
