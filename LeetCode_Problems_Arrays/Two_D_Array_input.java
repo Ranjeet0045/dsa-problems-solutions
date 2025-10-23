@@ -4,6 +4,7 @@ import java.util.Arrays;
 // import java.util.Scanner;
 
 public class Two_D_Array_input {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         int arr[][] = {
             {1,2,3},

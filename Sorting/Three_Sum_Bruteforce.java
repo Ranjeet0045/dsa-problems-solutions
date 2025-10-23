@@ -9,6 +9,7 @@ import java.util.Set;
 
 public class Three_Sum_Bruteforce {
 
+    @SuppressWarnings({ "rawtypes", "unchecked" })
     static List<List<Integer>> threeSum(int[] nums) {
         Set<List<Integer>> set = new HashSet<>();
         Arrays.sort(nums);

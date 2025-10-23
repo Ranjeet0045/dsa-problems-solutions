@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Check_if_digits_are_equal_after_operation",
+      "request": "launch",
+      "mainClass": "Check_if_digits_are_equal_after_operation",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "kth_smallest_in_BST",
       "request": "launch",
       "mainClass": "Tree.kth_smallest_in_BST",
