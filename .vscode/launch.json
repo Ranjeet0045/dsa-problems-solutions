@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Rabits_in_forest",
+      "request": "launch",
+      "mainClass": "Greedy.Rabits_in_forest",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Max_min_product_subset",
       "request": "launch",
       "mainClass": "Greedy.Max_min_product_subset",
