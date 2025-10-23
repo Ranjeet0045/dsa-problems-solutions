@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Top_K_frequent_Elements",
+      "request": "launch",
+      "mainClass": "Heap.Questions.Top_K_frequent_Elements",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "CustomPriorityQueueHeap",
+      "request": "launch",
+      "mainClass": "Heap.Implementation.CustomPriorityQueueHeap",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "K_closest_points_to_Origin",
       "request": "launch",
       "mainClass": "Heap.Questions.K_closest_points_to_Origin",

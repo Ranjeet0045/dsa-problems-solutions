@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.PriorityQueue;
 
-public class TopKfrequentElements {
+public class Top_K_frequent_Elements {
     public static int[] topKFrequent(int[] nums, int k) {
         int[] ans = new int[k];
         HashMap<Integer,Integer> map = new HashMap<>();
