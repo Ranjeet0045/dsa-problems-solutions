@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "K_closest_points_to_Origin",
+      "request": "launch",
+      "mainClass": "Heap.Questions.K_closest_points_to_Origin",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Maximize_sum_after_k_negations",
+      "request": "launch",
+      "mainClass": "Greedy.Maximize_sum_after_k_negations",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Top_k_frequent_elements",
       "request": "launch",
       "mainClass": "Hashmap.Top_k_frequent_elements",
