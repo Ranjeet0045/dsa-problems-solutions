@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Max_min_product_subset",
+      "request": "launch",
+      "mainClass": "Greedy.Max_min_product_subset",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Check_if_digits_are_equal_after_operation",
       "request": "launch",
       "mainClass": "Check_if_digits_are_equal_after_operation",
