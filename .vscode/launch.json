@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Meeting_rooms_2",
+      "request": "launch",
+      "mainClass": "Greedy.Meeting_rooms_2",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Split_array_subsequence",
       "request": "launch",
       "mainClass": "Heap.Questions.Split_array_subsequence",
