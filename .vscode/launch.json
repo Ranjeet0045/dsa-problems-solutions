@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Split_array_subsequence",
+      "request": "launch",
+      "mainClass": "Heap.Questions.Split_array_subsequence",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Rabits_in_forest",
       "request": "launch",
       "mainClass": "Greedy.Rabits_in_forest",
