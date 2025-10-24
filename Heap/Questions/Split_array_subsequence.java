@@ -1,46 +1,36 @@
 package Heap.Questions;
 
-import java.util.HashMap;
+import java.util.PriorityQueue;
 
 public class Split_array_subsequence {
 
     public static boolean isPossible(int[] arr, int k) {
-        HashMap<Integer, Integer> count = new HashMap<>();
-        HashMap<Integer, Integer> end = new HashMap<>();
+        if (k <= 1) return true;
+        
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> {
+            if (a[0] != b[0]) return Integer.compare(a[0], b[0]);
+            return Integer.compare(a[1], b[1]);
+        });
 
         for (int num : arr) {
-            count.put(num, count.getOrDefault(num, 0) + 1);
-        }
-
-        for (int num : arr) {
-            if (count.get(num) == 0) continue; // already used
-
-            count.put(num, count.get(num) - 1);
-
-            if (end.getOrDefault(num - 1, 0) > 0) {
-                end.put(num - 1, end.get(num - 1) - 1);
-                end.put(num, end.getOrDefault(num, 0) + 1);
+            
+            while (!pq.isEmpty() && pq.peek()[0] < num - 1) {
+                int[] seq = pq.poll();
+                if (seq[1] < k) return false;
             }
 
-            else {
-                boolean canForm = true;
-                for (int i = 1; i < k; i++) {
-                    if (count.getOrDefault(num + i, 0) <= 0) {
-                        canForm = false;
-                        break;
-                    }
-                }
-
-                if (!canForm) return false;
-
-                for (int i = 1; i < k; i++) {
-                    count.put(num + i, count.get(num + i) - 1);
-                }
-
-                end.put(num + k - 1, end.getOrDefault(num + k - 1, 0) + 1);
+            if (!pq.isEmpty() && pq.peek()[0] == num - 1) {
+                int[] seq = pq.poll();
+                pq.offer(new int[] { num, seq[1] + 1 });
+            } else {
+                
+                pq.offer(new int[] { num, 1 });
             }
         }
 
+        while (!pq.isEmpty()) {
+            if (pq.poll()[1] < k) return false;
+        }
         return true;
     }
     public static void main(String[] args) {
