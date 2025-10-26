@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Jump_Game_1",
+      "request": "launch",
+      "mainClass": "Greedy.Jump_Game_1",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Min_arrows_to_burst_balloons",
       "request": "launch",
       "mainClass": "Greedy.Min_arrows_to_burst_balloons",
