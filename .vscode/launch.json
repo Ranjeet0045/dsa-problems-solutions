@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Non_overlapping_intervals",
+      "request": "launch",
+      "mainClass": "Greedy.Non_overlapping_intervals",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Min_steps_to_half_sum",
       "request": "launch",
       "mainClass": "Greedy.Min_steps_to_half_sum",
