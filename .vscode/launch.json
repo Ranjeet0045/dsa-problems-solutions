@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Min_arrows_to_burst_balloons",
+      "request": "launch",
+      "mainClass": "Greedy.Min_arrows_to_burst_balloons",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Non_overlapping_intervals",
       "request": "launch",
       "mainClass": "Greedy.Non_overlapping_intervals",
