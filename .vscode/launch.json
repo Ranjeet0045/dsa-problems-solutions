@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "k_smallest_sum_pairs",
+      "request": "launch",
+      "mainClass": "Heap.Questions.k_smallest_sum_pairs",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Merge_intervals",
       "request": "launch",
       "mainClass": "Greedy.Merge_intervals",
