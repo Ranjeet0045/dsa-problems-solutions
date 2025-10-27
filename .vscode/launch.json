@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Fibonnaci",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Fibonnaci",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Fibboannaci",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Fibboannaci",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Sum_of_product_between_adjacent_elements",
       "request": "launch",
       "mainClass": "Sum_of_product_between_adjacent_elements",
