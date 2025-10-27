@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sum_of_product_between_adjacent_elements",
+      "request": "launch",
+      "mainClass": "Sum_of_product_between_adjacent_elements",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "k_smallest_sum_pairs",
       "request": "launch",
       "mainClass": "Heap.Questions.k_smallest_sum_pairs",
