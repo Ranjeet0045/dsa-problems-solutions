@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Merge_intervals",
+      "request": "launch",
+      "mainClass": "Greedy.Merge_intervals",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Jump_Game_2",
       "request": "launch",
       "mainClass": "Greedy.Jump_Game_2",
