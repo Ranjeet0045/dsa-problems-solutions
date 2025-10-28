@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Min_cost_climbing_stairs",
       "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Min_cost_climbing_stairs",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Min_cost_climbing_stairs",
+      "request": "launch",
       "mainClass": "Dynamic_programming.Memorization.Min_cost_climbing_stairs",
       "projectName": "JAVA_DSA_40082333"
     },
