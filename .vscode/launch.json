@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Min_cost_climbing_stairs",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Min_cost_climbing_stairs",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Distance_of_nearest_cell_heving_1",
+      "request": "launch",
+      "mainClass": "Two_D_Array.Distance_of_nearest_cell_heving_1",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "New",
+      "request": "launch",
+      "mainClass": "New",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Fibonnaci",
       "request": "launch",
       "mainClass": "Dynamic_programming.Tabulation.Fibonnaci",
