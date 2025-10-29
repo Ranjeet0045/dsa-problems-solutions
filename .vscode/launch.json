@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Unique_paths",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Unique_paths",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "unique_paths",
       "request": "launch",
       "mainClass": "Dynamic_programming.Memorization.unique_paths",
