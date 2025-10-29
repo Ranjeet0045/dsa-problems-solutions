@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Minimum_path_sum",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Minimum_path_sum",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Unique_paths_2",
       "request": "launch",
       "mainClass": "Dynamic_programming.Tabulation.Unique_paths_2",

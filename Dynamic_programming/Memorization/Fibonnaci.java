@@ -2,7 +2,7 @@ package Dynamic_programming.Memorization;
 
 import java.util.Arrays;
 
-public class Fiboannaci {
+public class Fibonnaci {
 
     public static int fibo(int n){
         int[] dp = new int[n+1];
