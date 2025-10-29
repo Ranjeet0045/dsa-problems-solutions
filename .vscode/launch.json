@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Unique_paths_2",
       "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Unique_paths_2",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Unique_paths_2",
+      "request": "launch",
       "mainClass": "Dynamic_programming.Memorization.Unique_paths_2",
       "projectName": "JAVA_DSA_40082333"
     },
