@@ -7,9 +7,7 @@ public class Minimum_path_sum {
     public static int helper(int row,int col,int m,int n,int[][] grid,int[][] dp){
 
         if (row == m && col == n) return grid[row][col];
-
         if (row > m || col > n) return (int) 1e9;
-
         if (dp[row][col] != -1) return dp[row][col];
 
         int down = grid[row][col] + helper(row + 1, col, m, n, grid, dp);

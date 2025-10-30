@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Minimum_path_sum",
       "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Minimum_path_sum",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Minimum_path_sum",
+      "request": "launch",
       "mainClass": "Dynamic_programming.Memorization.Minimum_path_sum",
       "projectName": "JAVA_DSA_40082333"
     },
