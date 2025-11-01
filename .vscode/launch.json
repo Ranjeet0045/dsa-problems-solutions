@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Delete_nodes",
+      "request": "launch",
+      "mainClass": "Linked_list.Questions.Delete_nodes",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Minimum_path_sum",
       "request": "launch",
       "mainClass": "Dynamic_programming.Tabulation.Minimum_path_sum",
