@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Minimum_taps_to_water_garden",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Minimum_taps_to_water_garden",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Best_time_to_buy_and_sell_stocks_4",
       "request": "launch",
       "mainClass": "Dynamic_programming.Memorization.Best_time_to_buy_and_sell_stocks_4",
