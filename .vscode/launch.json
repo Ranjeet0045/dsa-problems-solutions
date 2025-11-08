@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Best_time_to_buy_and_sell_stocks_4",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Best_time_to_buy_and_sell_stocks_4",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Best_time_to_buy_and_sell_stocks",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Best_time_to_buy_and_sell_stocks",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Number_of_paths_with_k_coins_tabulation",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Number_of_paths_with_k_coins_tabulation",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "number_of_paths_with_k_coins",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.number_of_paths_with_k_coins",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Sort_in_nonDecreasing_order",
+      "request": "launch",
+      "mainClass": "Sort_in_nonDecreasing_order",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Count_min_after_k_removals",
+      "request": "launch",
+      "mainClass": "Count_min_after_k_removals",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Delete_nodes",
       "request": "launch",
       "mainClass": "Linked_list.Questions.Delete_nodes",
