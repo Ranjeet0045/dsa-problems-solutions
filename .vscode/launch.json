@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Chocolate_pickup_1",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Chocolate_pickup_1",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Minimum_taps_to_water_garden",
       "request": "launch",
       "mainClass": "Dynamic_programming.Tabulation.Minimum_taps_to_water_garden",
