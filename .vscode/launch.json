@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Longest_common_subsequence",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Longest_common_subsequence",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Knight_probability_in_chessBoard",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Knight_probability_in_chessBoard",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Chocolate_pickup_1",
       "request": "launch",
       "mainClass": "Dynamic_programming.Memorization.Chocolate_pickup_1",
