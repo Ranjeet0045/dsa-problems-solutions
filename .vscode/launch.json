@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Longest_Common_subsequence",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Longest_Common_subsequence",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Longest_common_subsequence",
       "request": "launch",
       "mainClass": "Dynamic_programming.Memorization.Longest_common_subsequence",
