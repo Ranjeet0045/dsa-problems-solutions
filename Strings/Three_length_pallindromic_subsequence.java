@@ -48,13 +48,16 @@ public class Three_length_pallindromic_subsequence {
         int[] last = new int[26];
 
         for (int i = 0; i < 26; i++) {
-            first[i] = n;
+            first[i] = -1;
             last[i] = -1;
         }
 
         for (int i = 0; i < n; i++) {
             int c = s.charAt(i) - 'a';
-            first[c] = Math.min(first[c], i);
+            
+            if (first[c] == -1) {
+                first[c] = i;
+            }
             last[c] = i;
         }
 
