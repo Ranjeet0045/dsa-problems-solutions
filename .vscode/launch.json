@@ -3,6 +3,146 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Paths_in_matrix_whose_sum_is_divisible_by_k",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Paths_in_matrix_whose_sum_is_divisible_by_k",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Find_if_path_exist_in_graph",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Find_if_path_exist_in_graph",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Keys_and_rooms",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Keys_and_rooms",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "No_of_provinces",
+      "request": "launch",
+      "mainClass": "Graph.Questions.No_of_provinces",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Number_of_ways_to_Earn_points",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Number_of_ways_to_Earn_points",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Triangle",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Triangle",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Triangle",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Triangle",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Greatest_sum_divisible_by_three",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Greatest_sum_divisible_by_three",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Three_length_pallindromic_subsequence",
+      "request": "launch",
+      "mainClass": "Three_length_pallindromic_subsequence",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "dfs_implementation",
+      "request": "launch",
+      "mainClass": "Graph.DFS.dfs_implementation",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "bfs_implementation",
+      "request": "launch",
+      "mainClass": "Graph.BFS.bfs_implementation",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "using_Adjacency_matrix",
+      "request": "launch",
+      "mainClass": "Graph.Implementation.using_Adjacency_matrix",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "using_Adjacency_list",
+      "request": "launch",
+      "mainClass": "Graph.Implementation.using_Adjacency_list",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Set_intersection_size_at_least_two",
+      "request": "launch",
+      "mainClass": "Greedy.Set_intersection_size_at_least_two",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Minimum_cost_to_cut_stick",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Minimum_cost_to_cut_stick",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Number_of_paths_of_checkpoints",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Number_of_paths_of_checkpoints",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Perfect_squares",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Perfect_squares",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Count_sqaure_submatrices_of_all_ones",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.Count_sqaure_submatrices_of_all_ones",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Maximum_length_of_pair_chain",
+      "request": "launch",
+      "mainClass": "Greedy.Maximum_length_of_pair_chain",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Shortest_common_supersequence",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Shortest_common_supersequence",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Longest_Common_subsequence",
       "request": "launch",
       "mainClass": "Dynamic_programming.Tabulation.Longest_Common_subsequence",
