@@ -13,6 +13,7 @@ public class No_of_provinces {
         for(int i=0; i<m; i++){
             if(!vis[i]){
                 bfs(i,vis,isConnected);
+                dfs(i,vis,isConnected);
                 count++;
             }
         }
@@ -20,6 +21,19 @@ public class No_of_provinces {
         return count;
     }
 
+    // Using DFS
+    private static void dfs(int i, boolean[] vis, int[][] isConnected) {
+        int n = isConnected.length;
+        vis[i] = true;
+
+        for(int j=0; j<n; j++){
+            if(isConnected[i][j] == 1 && vis[j] == false){
+                dfs(j, vis, isConnected);
+            }
+        }
+    }
+
+    // Using BFS
     private static void bfs(int i, boolean[] vis, int[][] isConnected) {
         int n = isConnected.length;
         vis[i] = true;
