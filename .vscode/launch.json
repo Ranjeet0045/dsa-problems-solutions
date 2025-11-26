@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Dungeon_game",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Dungeon_game",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Paths_in_matrix_whose_sum_is_divisible_by_k",
       "request": "launch",
       "mainClass": "Dynamic_programming.Memorization.Paths_in_matrix_whose_sum_is_divisible_by_k",
