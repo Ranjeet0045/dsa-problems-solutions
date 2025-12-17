@@ -10,9 +10,9 @@ public class Best_time_to_buy_and_sell_stocks_5 {
         long[][][] dp = new long[n][k+1][3];
         
         for(long[][] arr:dp){
-        for(long[] ar:arr){
-            Arrays.fill(ar,-1);
-        }
+            for(long[] ar:arr){
+                Arrays.fill(ar,-1);
+            }
         }
         return memo(0, k, 0, prices, n, dp);
     }
