@@ -18,10 +18,28 @@ public class Bipartite_graph {
             if(!ans) return ans;
             if(vis[i] == -1){
                 bfs(i, vis, graph);
+                dfs(i, vis, graph);
             }
         }
 
         return ans;
+    }
+
+    private static void dfs(int node, int[] vis, int[][] graph) {
+        if(!ans) return;
+        if(vis[node] == -1) vis[node] = 0; // default color
+
+        for(int ele : graph[node]) {
+            if(vis[ele] == -1) {
+                vis[ele] = 1 - vis[node];
+                dfs(ele, vis, graph);
+                if(!ans) return;
+            } 
+            else if(vis[ele] == vis[node]) {
+                ans = false;
+                return;
+            }
+        }
     }
 
     private static void bfs(int i, int[] vis, int[][] adj) {
