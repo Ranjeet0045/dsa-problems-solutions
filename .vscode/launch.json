@@ -3,6 +3,482 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Redundant_connection",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Redundant_connection",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "No_of_provinces",
+      "request": "launch",
+      "mainClass": "Graph.Disjoint_Set_Union.No_of_provinces",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "DSU",
+      "request": "launch",
+      "mainClass": "Graph.Disjoint_Set_Union.DSU",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Equal_subarray_sum",
+      "request": "launch",
+      "mainClass": "Equal_subarray_sum",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Find_the_city_with_smallest_neighbours",
+      "request": "launch",
+      "mainClass": "Graph.Floyed_warshall.Find_the_city_with_smallest_neighbours",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Graph.Floyed_warshall.Main",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Graph.Bellmon_ford.Main",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Robot_Collision",
+      "request": "launch",
+      "mainClass": "Stack.Questions.Robot_Collision",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Binary_watch",
+      "request": "launch",
+      "mainClass": "BackTracking.Binary_watch",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Min_dist_to_connect_all_points",
+      "request": "launch",
+      "mainClass": "Graph.Minimum_spanning_tree.Min_dist_to_connect_all_points",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Graph.Minimum_spanning_tree.Main",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Cheapest_flights_with_k_stops",
+      "request": "launch",
+      "mainClass": "Graph.Dijkstra.Cheapest_flights_with_k_stops",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Path_with_minimum_effort",
+      "request": "launch",
+      "mainClass": "Graph.Dijkstra.Path_with_minimum_effort",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Path_with_maximum_probability",
+      "request": "launch",
+      "mainClass": "Graph.Dijkstra.Path_with_maximum_probability",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Network_delay_time",
+      "request": "launch",
+      "mainClass": "Graph.Dijkstra.Network_delay_time",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "champagne_tower",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Tabulation.champagne_tower",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "champagne_tower",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.champagne_tower",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Graph.Dijkstra.Main",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Merge_k_lists",
+      "request": "launch",
+      "mainClass": "Linked_list.Questions.Merge_k_lists",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Directed_graph",
+      "request": "launch",
+      "mainClass": "Graph.Cycle_Detection.Directed_graph",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Task_schedular_2",
+      "request": "launch",
+      "mainClass": "Hashmap.Task_schedular_2",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "task_schedular",
+      "request": "launch",
+      "mainClass": "Heap.Questions.task_schedular",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Alien_dictionary",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Alien_dictionary",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Find_eventual_safe_states",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Find_eventual_safe_states",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Course_schedule_2",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Course_schedule_2",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Course_schedule",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Course_schedule",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "No_of_Islands",
+      "request": "launch",
+      "mainClass": "No_of_Islands",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Find_if_path_exist_in_graph",
+      "request": "launch",
+      "mainClass": "Find_if_path_exist_in_graph",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Divide_array_in_subarrays_with_minCost_2",
+      "request": "launch",
+      "mainClass": "Heap.Questions.Divide_array_in_subarrays_with_minCost_2",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Hamiltonian_path_exist",
+      "request": "launch",
+      "mainClass": "Graph.Hamiltonian_cycle.Hamiltonian_path_exist",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Undirected_graph_cycle",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Undirected_graph_cycle",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Connected_components",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Connected_components",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Tree_traversals",
+      "request": "launch",
+      "mainClass": "Tree.Tree_traversals",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Add_two_numbers",
+      "request": "launch",
+      "mainClass": "Linked_list.Questions.Add_two_numbers",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Zigzag_level_order_tarversal",
+      "request": "launch",
+      "mainClass": "Tree.Zigzag_level_order_tarversal",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Symmetric_tree",
+      "request": "launch",
+      "mainClass": "Tree.Symmetric_tree",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_list",
+      "request": "launch",
+      "mainClass": "Linked_list.Questions.Reverse_list",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Merge_two_sorted_lists",
+      "request": "launch",
+      "mainClass": "Linked_list.Questions.Merge_two_sorted_lists",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Minimum_Cost_Path_with_Teleportations",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Minimum_Cost_Path_with_Teleportations",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Additive_number",
+      "request": "launch",
+      "mainClass": "Additive_number",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Odd_Even_linked_list",
+      "request": "launch",
+      "mainClass": "Linked_list.Questions.Odd_Even_linked_list",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Max_width_of_Binary_tree",
+      "request": "launch",
+      "mainClass": "Tree.Max_width_of_Binary_tree",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "min_pair_removal_to_sort_array_2",
+      "request": "launch",
+      "mainClass": "Simulation.min_pair_removal_to_sort_array_2",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Construct_minimum_bitwise_array",
+      "request": "launch",
+      "mainClass": "Construct_minimum_bitwise_array",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "min_pair_removal_to_sort_array",
+      "request": "launch",
+      "mainClass": "Simulation.min_pair_removal_to_sort_array",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "N_Queens",
+      "request": "launch",
+      "mainClass": "BackTracking.N_Queens",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "generate_parentheses",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.generate_parentheses",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "generate_parentheses",
+      "request": "launch",
+      "mainClass": "BackTracking.generate_parentheses",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Binary_tree",
+      "request": "launch",
+      "mainClass": "Tree.Binary_tree",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "BFS",
+      "request": "launch",
+      "mainClass": "Tree.BFS",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Two_best_non_overlapping_events",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Two_best_non_overlapping_events",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Using_bfs",
+      "request": "launch",
+      "mainClass": "Graph.Topological_sort.Using_bfs",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Using_dfs",
+      "request": "launch",
+      "mainClass": "Graph.Topological_sort.Using_dfs",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Bipartite_graph",
+      "request": "launch",
+      "mainClass": "Graph.Bipartite.Bipartite_graph",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Find_all_people_with_secrets",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Find_all_people_with_secrets",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Best_time_to_buy_and_sell_stocks_5",
+      "request": "launch",
+      "mainClass": "Dynamic_programming.Memorization.Best_time_to_buy_and_sell_stocks_5",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "CeilingOfNumber",
+      "request": "launch",
+      "mainClass": "Binary_Search.CeilingOfNumber",
+      "projectName": "JAVA_DSA_d944d9e8"
+    },
+    {
+      "type": "java",
+      "name": "Count_number_of_computer_unlocking_permutations",
+      "request": "launch",
+      "mainClass": "Combinatorics.Count_number_of_computer_unlocking_permutations",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Count_special_triplets",
+      "request": "launch",
+      "mainClass": "Hashmap.Count_special_triplets",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Count_partitions_with_max_min_difference_atMost_k",
+      "request": "launch",
+      "mainClass": "Sliding_window.Count_partitions_with_max_min_difference_atMost_k",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Bipartite_graph",
+      "request": "launch",
+      "mainClass": "Graph.Bipartite.Bipartite_graph",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Undirected_graph",
+      "request": "launch",
+      "mainClass": "Graph.Cycle_Detection.Undirected_graph",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Make_sum_divisible_by_P",
+      "request": "launch",
+      "mainClass": "Prefix_sum.Make_sum_divisible_by_P",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Maximum_number_of_k_divisible_components",
+      "request": "launch",
+      "mainClass": "Graph.Questions.Maximum_number_of_k_divisible_components",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "MaximumSubarraySumDivByK",
+      "request": "launch",
+      "mainClass": "BackTracking.MaximumSubarraySumDivByK",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Maximum_subarray_sum_with_length_divisible_by_k",
+      "request": "launch",
+      "mainClass": "BackTracking.Maximum_subarray_sum_with_length_divisible_by_k",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "Subarrays",
+      "request": "launch",
+      "mainClass": "BackTracking.Subarrays",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
+      "name": "No_of_Islands",
+      "request": "launch",
+      "mainClass": "Graph.Questions.No_of_Islands",
+      "projectName": "JAVA_DSA_40082333"
+    },
+    {
+      "type": "java",
       "name": "Dungeon_game",
       "request": "launch",
       "mainClass": "Dynamic_programming.Memorization.Dungeon_game",
